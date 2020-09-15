@@ -12,7 +12,9 @@ namespace workflow_engine
 
             workflow.AddStep(new step1());
             workflow.AddStep(new step2());
-            workflow.Execute();
+
+            var worflow_engine = new workflow_engine();
+            worflow_engine.Run(workflow);
 
 
         }

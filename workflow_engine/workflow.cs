@@ -2,7 +2,7 @@ using System.Collections.Generic;
 
 namespace workflow_engine
 {
-    public class workflow
+    public class workflow : IWorkflow
     {
         private readonly List<IStep> _steps;
 
@@ -16,14 +16,14 @@ namespace workflow_engine
             _steps.Add(step);
         }
 
-
-        public void Execute()
+        public IEnumerable<IStep> GetSteps()
         {
-            foreach (IStep step in _steps)
-            {
-                step.Run();
-            }
+            return _steps;
         }
 
+        public void RemoveStep(IStep step)
+        {
+            _steps.Remove(step);
+        }
     }
 }
