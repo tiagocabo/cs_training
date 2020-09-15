@@ -1,0 +1,13 @@
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/classes_ex1/bin/Debug/netcoreapp3.1/classes_ex1
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/classes_ex1/bin/Debug/netcoreapp3.1/classes_ex1.deps.json
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/classes_ex1/bin/Debug/netcoreapp3.1/classes_ex1.runtimeconfig.json
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/classes_ex1/bin/Debug/netcoreapp3.1/classes_ex1.runtimeconfig.dev.json
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/classes_ex1/bin/Debug/netcoreapp3.1/classes_ex1.dll
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/classes_ex1/bin/Debug/netcoreapp3.1/classes_ex1.pdb
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/classes_ex1/obj/Debug/netcoreapp3.1/classes_ex1.csprojAssemblyReference.cache
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/classes_ex1/obj/Debug/netcoreapp3.1/classes_ex1.AssemblyInfoInputs.cache
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/classes_ex1/obj/Debug/netcoreapp3.1/classes_ex1.AssemblyInfo.cs
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/classes_ex1/obj/Debug/netcoreapp3.1/classes_ex1.csproj.CoreCompileInputs.cache
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/classes_ex1/obj/Debug/netcoreapp3.1/classes_ex1.dll
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/classes_ex1/obj/Debug/netcoreapp3.1/classes_ex1.pdb
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/classes_ex1/obj/Debug/netcoreapp3.1/classes_ex1.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/polymorphism/bin/Debug/netcoreapp3.1/polymorphism
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/polymorphism/bin/Debug/netcoreapp3.1/polymorphism.deps.json
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/polymorphism/bin/Debug/netcoreapp3.1/polymorphism.runtimeconfig.json
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/polymorphism/bin/Debug/netcoreapp3.1/polymorphism.runtimeconfig.dev.json
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/polymorphism/bin/Debug/netcoreapp3.1/polymorphism.dll
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/polymorphism/bin/Debug/netcoreapp3.1/polymorphism.pdb
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/polymorphism/obj/Debug/netcoreapp3.1/polymorphism.csprojAssemblyReference.cache
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/polymorphism/obj/Debug/netcoreapp3.1/polymorphism.AssemblyInfoInputs.cache
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/polymorphism/obj/Debug/netcoreapp3.1/polymorphism.AssemblyInfo.cs
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/polymorphism/obj/Debug/netcoreapp3.1/polymorphism.csproj.CoreCompileInputs.cache
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/polymorphism/obj/Debug/netcoreapp3.1/polymorphism.dll
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/polymorphism/obj/Debug/netcoreapp3.1/polymorphism.pdb
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/polymorphism/obj/Debug/netcoreapp3.1/polymorphism.genruntimeconfig.cache

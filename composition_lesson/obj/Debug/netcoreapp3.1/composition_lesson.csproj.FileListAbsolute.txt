@@ -1,0 +1,13 @@
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/composition_lesson/bin/Debug/netcoreapp3.1/composition_lesson
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/composition_lesson/bin/Debug/netcoreapp3.1/composition_lesson.deps.json
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/composition_lesson/bin/Debug/netcoreapp3.1/composition_lesson.runtimeconfig.json
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/composition_lesson/bin/Debug/netcoreapp3.1/composition_lesson.runtimeconfig.dev.json
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/composition_lesson/bin/Debug/netcoreapp3.1/composition_lesson.dll
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/composition_lesson/bin/Debug/netcoreapp3.1/composition_lesson.pdb
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/composition_lesson/obj/Debug/netcoreapp3.1/composition_lesson.csprojAssemblyReference.cache
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/composition_lesson/obj/Debug/netcoreapp3.1/composition_lesson.AssemblyInfoInputs.cache
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/composition_lesson/obj/Debug/netcoreapp3.1/composition_lesson.AssemblyInfo.cs
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/composition_lesson/obj/Debug/netcoreapp3.1/composition_lesson.csproj.CoreCompileInputs.cache
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/composition_lesson/obj/Debug/netcoreapp3.1/composition_lesson.dll
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/composition_lesson/obj/Debug/netcoreapp3.1/composition_lesson.pdb
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/composition_lesson/obj/Debug/netcoreapp3.1/composition_lesson.genruntimeconfig.cache

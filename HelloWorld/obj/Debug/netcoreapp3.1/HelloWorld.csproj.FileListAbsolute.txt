@@ -1,0 +1,13 @@
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.deps.json
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.json
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.dev.json
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.dll
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.pdb
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csprojAssemblyReference.cache
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfoInputs.cache
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfo.cs
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csproj.CoreCompileInputs.cache
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.dll
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.pdb
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/local/FARFETCH/tiago.cabo/.dotnet/store/|arch|/|tfm|",
+      "/home/local/FARFETCH/tiago.cabo/.nuget/packages"
+    ]
+  }
+}

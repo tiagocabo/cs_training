@@ -1,0 +1,13 @@
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/inheritance_lesson/bin/Debug/netcoreapp3.1/inheritance_lesson
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/inheritance_lesson/bin/Debug/netcoreapp3.1/inheritance_lesson.deps.json
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/inheritance_lesson/bin/Debug/netcoreapp3.1/inheritance_lesson.runtimeconfig.json
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/inheritance_lesson/bin/Debug/netcoreapp3.1/inheritance_lesson.runtimeconfig.dev.json
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/inheritance_lesson/bin/Debug/netcoreapp3.1/inheritance_lesson.dll
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/inheritance_lesson/bin/Debug/netcoreapp3.1/inheritance_lesson.pdb
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/inheritance_lesson/obj/Debug/netcoreapp3.1/inheritance_lesson.csprojAssemblyReference.cache
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/inheritance_lesson/obj/Debug/netcoreapp3.1/inheritance_lesson.AssemblyInfoInputs.cache
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/inheritance_lesson/obj/Debug/netcoreapp3.1/inheritance_lesson.AssemblyInfo.cs
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/inheritance_lesson/obj/Debug/netcoreapp3.1/inheritance_lesson.csproj.CoreCompileInputs.cache
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/inheritance_lesson/obj/Debug/netcoreapp3.1/inheritance_lesson.dll
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/inheritance_lesson/obj/Debug/netcoreapp3.1/inheritance_lesson.pdb
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/inheritance_lesson/obj/Debug/netcoreapp3.1/inheritance_lesson.genruntimeconfig.cache
