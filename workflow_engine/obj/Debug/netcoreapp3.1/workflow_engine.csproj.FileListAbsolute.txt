@@ -1,0 +1,13 @@
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/workflow_engine/obj/Debug/netcoreapp3.1/workflow_engine.csprojAssemblyReference.cache
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/workflow_engine/obj/Debug/netcoreapp3.1/workflow_engine.AssemblyInfoInputs.cache
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/workflow_engine/obj/Debug/netcoreapp3.1/workflow_engine.AssemblyInfo.cs
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/workflow_engine/obj/Debug/netcoreapp3.1/workflow_engine.csproj.CoreCompileInputs.cache
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/workflow_engine/bin/Debug/netcoreapp3.1/workflow_engine
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/workflow_engine/bin/Debug/netcoreapp3.1/workflow_engine.deps.json
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/workflow_engine/bin/Debug/netcoreapp3.1/workflow_engine.runtimeconfig.json
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/workflow_engine/bin/Debug/netcoreapp3.1/workflow_engine.runtimeconfig.dev.json
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/workflow_engine/bin/Debug/netcoreapp3.1/workflow_engine.dll
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/workflow_engine/bin/Debug/netcoreapp3.1/workflow_engine.pdb
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/workflow_engine/obj/Debug/netcoreapp3.1/workflow_engine.dll
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/workflow_engine/obj/Debug/netcoreapp3.1/workflow_engine.pdb
+/home/local/FARFETCH/tiago.cabo/Documents/privateProjects/C#_training/workflow_engine/obj/Debug/netcoreapp3.1/workflow_engine.genruntimeconfig.cache
